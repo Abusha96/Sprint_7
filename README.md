@@ -1,3 +1,3 @@
 # Финальный проект 7-го спринта 
 
-## Автотесты к учебному сервису Яндекс Самокат (документация https://qa-scooter.praktikum-services.rэu/docs/)
+## Автотесты к учебному сервису Яндекс Самокат (документация https://qa-scooter.praktikum-services.ru/docs/)
